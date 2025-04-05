@@ -1,8 +1,4 @@
 
 # Github start
 
-<!-- badges: start -->
-<!-- badges: end -->
-
-The goal of Github start is to ...
-
+Content for Math 250, Introduction to Statistical Programming, at Lake Forest College.
